@@ -8,7 +8,7 @@
 </br>
 
 <div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="400px" align="right" src="https://user-images.githubusercontent.com/85310475/209472552-ee8c70ff-050d-45cf-a3bd-e300f5b976cf.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 Studying for the Azure administrator certs.</li>
