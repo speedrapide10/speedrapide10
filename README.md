@@ -25,6 +25,6 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&show_icons=true&theme=great-gatsby" alt="speedrapide10" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" />
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=speedrapide10.speedrapide10" />
