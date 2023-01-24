@@ -15,10 +15,23 @@
     <li>👨‍💻 More informations about me on <a href="https://speedrapide10.github.io/">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/oussama-karem/">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Free Cources(Backend, CI/CD, Kubernetes, and Cloud stuff) | IT Certifications Vouchers</strong>.</li>
-   <!--- <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li> --->
+   <!--- <li>📙 Check out my <a href="https://test.example.com/resume.pdf">resume</a>.</li> --->
    <!--- This is a comment --->
     <li>🤓 Cyber Security & DevOps Enthusiast | GITHUB | Jenkins | Docker | Kubernetes | Ansible.</li>
     <li>🎉 Fun Fact: I Love Tech 😋🧠.</li>
+  </ul>
+</div>
+
+</br>
+
+<div>
+  <img width="400px" align="right" src="https://user-images.githubusercontent.com/85310475/209472552-ee8c70ff-050d-45cf-a3bd-e300f5b976cf.jpg" />
+  <h2>⚡️ A Few Quick Facts</h2>
+  <ul>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&repo=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" />
+   <!--- <li>📙 Check out my <a href="https://github.com/timothystewart6/timothystewart6.git">source</a>.</li> --->
+   <!--- This is a comment --->
+
   </ul>
 </div>
 
