@@ -26,13 +26,13 @@
 
 <div>
   <img width="400px" align="right" src="https://user-images.githubusercontent.com/85310475/209472552-ee8c70ff-050d-45cf-a3bd-e300f5b976cf.jpg" />
-  <h2>⚡️ A Few Quick Facts</h2>
-  <ul>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&repo=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" />
+  <h2>🧑‍💻 My open source repos</h2>
+  <u2>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&repo=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" />
    <!--- <li>📙 Check out my <a href="https://github.com/timothystewart6/timothystewart6.git">source</a>.</li> --->
    <!--- This is a comment --->
 
-  </ul>
+  </u2>
 </div>
 
 </br>
