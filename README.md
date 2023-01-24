@@ -27,7 +27,9 @@
 <div>
   <h2>🧑‍💻 My open source repos</h2>
   <u2>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&repo=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" />
+  <!--- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&repo=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" /> --->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="speedrapide10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=upptime&theme=radical" alt="speedrapide10" />
    <!--- <li>📙 Check out my <a href="https://github.com/timothystewart6/timothystewart6.git">source</a>.</li> --->
    <!--- This is a comment --->
 
