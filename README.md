@@ -19,6 +19,8 @@
    <!--- This is a comment --->
     <li>🤓 Cyber Security & DevOps Enthusiast | GITHUB | Jenkins | Docker | Kubernetes | Ansible.</li>
     <li>🎉 Fun Fact: I Love Tech 😋🧠.</li>
+    <li>🙂 Second Fun Fact: Never Give Up & Stay Calme.</li>
+    <img align="center" src="https://user-images.githubusercontent.com/85310475/231599057-b6fee1cf-afcd-44d3-a2ec-74bfbfb9672d.gif" />
   </ul>
 </div>
 
