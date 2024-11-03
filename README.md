@@ -31,12 +31,12 @@
 <div>
   <h2>🧑‍💻 My open source repos</h2>
 <!---  <l> --->
-  <p justify-content:"space-evenly">
+  <p align="center" justify-content:"space-evenly">
   <a href="https://github.com/speedrapide10/upptime"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=upptime&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/my-code-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/free-programming-books"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=free-programming-books&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/docker-cloudflare-ddns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=docker-cloudflare-ddns&theme=radical" alt="speedrapide10" </a>
-
+</p>
    <!--- <li>📙 Check out my <a href="https://github.com/timothystewart6/timothystewart6.git">source</a>.</li> --->
    <!--- This is a comment --->
 <!---  </l> --->
@@ -44,6 +44,6 @@
 
   <h2>📊 My Stats</h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" /> </p>
 
 <!--- <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=speedrapide10.speedrapide10" /> --->
