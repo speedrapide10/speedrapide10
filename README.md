@@ -36,7 +36,7 @@
   <a href="https://github.com/speedrapide10/my-code-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/free-programming-books"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=free-programming-books&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/docker-cloudflare-ddns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=docker-cloudflare-ddns&theme=radical" alt="speedrapide10" </a>
-</p>
+  </p>
    <!--- <li>📙 Check out my <a href="https://github.com/timothystewart6/timothystewart6.git">source</a>.</li> --->
    <!--- This is a comment --->
 <!---  </l> --->
@@ -47,3 +47,14 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" /> </p>
 
 <!--- <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=speedrapide10.speedrapide10" /> --->
+
+  <h2>🛠️ My favorite tools</h2>
+
+### My used programming and scripting languages
+
+<p>
+  <a href="https://github.com/search?q=user%3Apiuswalter+Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Apiuswalter+HTML5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Apiuswalter+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Apiuswalter+Python"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+</p>
