@@ -86,4 +86,4 @@
   <a href="#"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
-Made with ❤️ by speedrapide10
+Made with ❤️ by Oussama
