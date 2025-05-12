@@ -9,7 +9,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=CA3571&center=true&vCenter=true&width=460&lines=Red+Hat+Certified+System+Administrator;Network+Engineer;Big+Tech+Lover" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=CA3571&center=true&vCenter=true&width=460&lines=Red+Hat+Certified+System+Administrator;SysOps+Engineer;Network+Engineer;Big+Tech+Lover" /></a>
 </p>
 
 <div>
