@@ -32,6 +32,7 @@
   <h2>🧑‍💻 My open source repos</h2>
 <!---  <l> --->
   <p align="center" justify-content:"space-evenly">
+  <a href="https://github.com/speedrapide10/Proxmox-Public-Scripts"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=Proxmox-Public-Scripts&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/upptime"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=upptime&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/my-code-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="speedrapide10" </a>
   <a href="https://github.com/speedrapide10/free-programming-books"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=speedrapide10&repo=free-programming-books&theme=radical" alt="speedrapide10" </a>
