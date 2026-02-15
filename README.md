@@ -13,7 +13,7 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <img width="400px" align="right" src="https://user-images.githubusercontent.com/85310475/209472552-ee8c70ff-050d-45cf-a3bd-e300f5b976cf.jpg" />
   <ul>
-    <li>🧐 Studying for the Azure administrator / Red Hat Certified Engineer certs.</li>
+    <li>🧐 Studying for the AWS Certified Solutions Architect / Red Hat Certified Engineer certs.</li>
     <li>👨‍💻 More information about me on <a href="https://speedrapide10.github.io/">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/oussama-karem/">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Free Courses (Backend, CI/CD, Kubernetes, and Cloud stuff) | IT Certifications Vouchers</strong>.</li>
