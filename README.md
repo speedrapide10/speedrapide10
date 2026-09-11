@@ -31,31 +31,31 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/speedrapide10/my-code-server">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="my-code-server" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="my-code-server" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/speedrapide10/Proxmox-Public-Scripts">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=Proxmox-Public-Scripts&theme=radical" alt="Proxmox-Public-Scripts" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=speedrapide10&repo=Proxmox-Public-Scripts&theme=radical" alt="Proxmox-Public-Scripts" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/speedrapide10/upptime">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=upptime&theme=radical" alt="upptime" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=speedrapide10&repo=upptime&theme=radical" alt="upptime" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/speedrapide10/free-programming-books">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=free-programming-books&theme=radical" alt="free-programming-books" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=speedrapide10&repo=free-programming-books&theme=radical" alt="free-programming-books" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
         <a href="https://github.com/speedrapide10/docker-cloudflare-ddns">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=docker-cloudflare-ddns&theme=radical" alt="docker-cloudflare-ddns" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=speedrapide10&repo=docker-cloudflare-ddns&theme=radical" alt="docker-cloudflare-ddns" />
         </a>
       </td>
     </tr>
@@ -65,7 +65,7 @@
 <h2>📊 My Stats</h2>
 
 <p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" /> 
+  <img src="https://github-stats-extended.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" /> 
 </p>
 
 <h2>🛠️ My favorite tools</h2>
