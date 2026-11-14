@@ -30,17 +30,27 @@
       <td width="50%" valign="top">
         <h3><a href="https://github.com/speedrapide10/Tailscale-ACL">🔐 Tailscale Zero-Trust GitOps</a></h3>
         <p>Automated network access control and continuous deployment pipeline using GitHub Actions, Tailscale ACLs, and HuJSON policies.</p>
+        <ul>
+          <li>Automated CI/CD validation via GitHub Actions</li>
+          <li>Granular Zero-Trust RBAC grants & subnet router isolation</li>
+        </ul>
         <p>
           <img src="https://img.shields.io/badge/Tailscale-Zero--Trust-blue?style=flat-square&logo=tailscale" />
           <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions" />
+          <img src="https://img.shields.io/badge/Security-RBAC-green?style=flat-square" />
         </p>
       </td>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/speedrapide10/portainer-stacks-backup">🐳 Portainer & Docker DR Engine</a></h3>
         <p>Zero-touch automated backup and disaster recovery engine for multi-host Docker/Portainer environments with Mattermost observability.</p>
+        <ul>
+          <li>Automated Git delta synchronization to self-hosted Forgejo</li>
+          <li>Real-time failure alerting via embedded Mattermost webhooks</li>
+        </ul>
         <p>
           <img src="https://img.shields.io/badge/Docker-Portainer-2496ED?style=flat-square&logo=docker" />
           <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnu-bash" />
+          <img src="https://img.shields.io/badge/Forgejo-GitOps-FB923C?style=flat-square&logo=forgejo" />
         </p>
       </td>
     </tr>
@@ -48,17 +58,27 @@
       <td width="50%" valign="top">
         <h3><a href="https://github.com/speedrapide10/Proxmox-Public-Scripts">🖥️ Proxmox VE Automation Suite</a></h3>
         <p>Production-tested maintenance, kernel scheduling, and storage optimization scripts for enterprise Proxmox hypervisors.</p>
+        <ul>
+          <li>VirtIO SCSI storage tuning, hardware TRIM & ZRAM swappiness</li>
+          <li>Automated Proxmox Backup Server (PBS) prune & GC lifecycle</li>
+        </ul>
         <p>
           <img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox" />
           <img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=flat-square&logo=linux" />
+          <img src="https://img.shields.io/badge/Storage-VirtIO_SCSI-red?style=flat-square" />
         </p>
       </td>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/speedrapide10/docker-cloudflare-ddns">☁️ Cloudflare Dynamic DNS</a></h3>
         <p>Edge DNS management and dynamic IP synchronization container for multi-WAN and home-lab gateway infrastructure.</p>
+        <ul>
+          <li>Zero-downtime edge IP failover with healthchecks</li>
+          <li>Multi-network support for resilient WAN gateway routing</li>
+        </ul>
         <p>
           <img src="https://img.shields.io/badge/Cloudflare-DNS-F38020?style=flat-square&logo=cloudflare" />
           <img src="https://img.shields.io/badge/Docker-Edge-2496ED?style=flat-square&logo=docker" />
+          <img src="https://img.shields.io/badge/Network-High_Availability-blue?style=flat-square" />
         </p>
       </td>
     </tr>
@@ -73,6 +93,27 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div>
+  <h2>🏗️ Homelab Architecture Overview</h2>
+  <pre>
+┌────────────────────────────────────────────────────────────────────────┐
+│                       CLOUDFLARE ZERO-TRUST EDGE                       │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │ WireGuard / Tailscale Mesh
+┌───────────────────────────────────┴────────────────────────────────────┐
+│                   SPEEDXNIGHT CLUSTER INFRASTRUCTURE                   │
+├────────────────────────┬────────────────────────┬──────────────────────┤
+│      PROXMOX VE 1      │      PROXMOX VE 2      │     PROXMOX VE 3     │
+│ [Monkey] i3-6100T/24G  │ [Beast] Core i7 / 32G  │ [Spike] Core i5/16G  │
+├────────────────────────┼────────────────────────┼──────────────────────┤
+│ • OMYV Storage NAS     │ • Production Docker    │ • Staging Lab & DR   │
+│ • VPBS Backup Server   │ • Mattermost Webhooks  │ • PBS Remote Target  │
+│ • Corosync Ring 0/1    │ • Forgejo GitOps Hub   │ • Fail2ban nftables  │
+│ • Dedicated VLAN 3288  │ • Portainer Stacks     │ • Network Watchdogs  │
+└────────────────────────┴────────────────────────┴──────────────────────┘
+  </pre>
 </div>
 
 <h2>📊 Contribution Activity</h2>
