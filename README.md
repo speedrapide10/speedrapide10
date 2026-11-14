@@ -15,7 +15,7 @@
     <li>🎓 <strong>Certifications:</strong> Red Hat Certified System Administrator (RHCSA), Fortinet NSE, Scrum SFC.</li>
     <li>☁️ <strong>Enterprise Focus:</strong> Cloud & SysOps Engineering, Linux Systems (RHEL / Debian), OpenTofu / Terraform IaC, Ansible.</li>
     <li>🖥️ <strong>Homelab & Virtualization:</strong> Multi-node Proxmox VE cluster with 10G SDN, ZFS/ZRAM, PBS offsite backups, and automated DR.</li>
-    <li>👨‍💻 More information and live architecture on <a href="https://speedrapide10.github.io/">my portfolio website</a>.</li>
+    <li>👨‍💻 More information and live architecture on <a href="https://oussama.speednight.win/">my portfolio website</a>.</li>
     <li>📝 Connect with me on <a href="https://www.linkedin.com/in/oussama-karem/">LinkedIn</a>.</li>
     <li>💬 Passionate about Infrastructure as Code, Linux kernel tuning, high-availability clusters, and GitOps automation.</li>
   </ul>
