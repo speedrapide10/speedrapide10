@@ -24,46 +24,61 @@
 <br clear="all" />
 
 <div>
-  <h2>🧑‍💻 Featured Repositories & Tooling</h2>
-  <table border="0" align="center" cellspacing="15" cellpadding="0">
+  <h2>🧑‍💻 Featured Projects & Architecture</h2>
+  <table width="100%">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/Tailscale-ACL">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=Tailscale-ACL&theme=radical" alt="Tailscale-ACL" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/speedrapide10/Tailscale-ACL">🔐 Tailscale Zero-Trust GitOps</a></h3>
+        <p>Automated network access control and continuous deployment pipeline using GitHub Actions, Tailscale ACLs, and HuJSON policies.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Tailscale-Zero--Trust-blue?style=flat-square&logo=tailscale" />
+          <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions" />
+        </p>
       </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/portainer-stacks-backup">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=portainer-stacks-backup&theme=radical" alt="portainer-stacks-backup" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/speedrapide10/portainer-stacks-backup">🐳 Portainer & Docker DR Engine</a></h3>
+        <p>Zero-touch automated backup and disaster recovery engine for multi-host Docker/Portainer environments with Mattermost observability.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Docker-Portainer-2496ED?style=flat-square&logo=docker" />
+          <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnu-bash" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/Proxmox-Public-Scripts">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=Proxmox-Public-Scripts&theme=radical" alt="Proxmox-Public-Scripts" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/speedrapide10/Proxmox-Public-Scripts">🖥️ Proxmox VE Automation Suite</a></h3>
+        <p>Production-tested maintenance, kernel scheduling, and storage optimization scripts for enterprise Proxmox hypervisors.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox" />
+          <img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=flat-square&logo=linux" />
+        </p>
       </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/my-code-server">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="my-code-server" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/speedrapide10/docker-cloudflare-ddns">☁️ Cloudflare Dynamic DNS</a></h3>
+        <p>Edge DNS management and dynamic IP synchronization container for multi-WAN and home-lab gateway infrastructure.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Cloudflare-DNS-F38020?style=flat-square&logo=cloudflare" />
+          <img src="https://img.shields.io/badge/Docker-Edge-2496ED?style=flat-square&logo=docker" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/docker-cloudflare-ddns">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=docker-cloudflare-ddns&theme=radical" alt="docker-cloudflare-ddns" />
-        </a>
+      <td colspan="2" valign="top">
+        <h3><a href="https://github.com/speedrapide10/my-code-server">💻 Cloud Development Workspace</a></h3>
+        <p>Self-contained development environment in Docker with customized tooling, extensions, and persistent secure storage.</p>
+        <p>
+          <img src="https://img.shields.io/badge/VS_Code-Server-007ACC?style=flat-square&logo=visualstudiocode" />
+          <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker" />
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-<h2>📊 My Stats</h2>
+<h2>📊 Contribution Activity</h2>
 
 <p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=speedrapide10&show_icons=true&theme=radical" alt="speedrapide10" /> 
+  <img src="https://streak-stats.demolab.com?user=speedrapide10&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <h2>🛠️ My favorite tools</h2>
