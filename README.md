@@ -1,5 +1,4 @@
-> [!WARNING]
-> **Notice:** I currently self-host a GitLab server for internal development projects. As a result, not all repositories are reflected here on GitHub. I will manually update and sync this profile whenever possible. Thank you for your understanding!
+> 🏗️ **Self-Hosted First:** My primary infrastructure workflows, homelab orchestrations, and internal CI/CD pipelines run on a self-hosted GitOps stack (Forgejo / GitLab), mirrored selectively to GitHub.
 
 <h3 align="center">
   Hey there, nice to see you here! 👋
@@ -13,42 +12,41 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <img width="400px" align="right" src="https://user-images.githubusercontent.com/85310475/209472552-ee8c70ff-050d-45cf-a3bd-e300f5b976cf.jpg" />
   <ul>
-    <li>🧐 Studying for the AWS Certified Solutions Architect / Red Hat Certified Engineer certs.</li>
-    <li>👨‍💻 More information about me on <a href="https://speedrapide10.github.io/">my portfolio website</a>.</li>
-    <li>📝 I am often active on <a href="https://www.linkedin.com/in/oussama-karem/">LinkedIn</a>.</li>
-    <li>💬 Ping me about <strong>Free Courses (Backend, CI/CD, Kubernetes, and Cloud stuff) | IT Certifications Vouchers</strong>.</li>
-    <li>🤓 Cyber Security & DevOps Enthusiast | GITHUB | Jenkins | Docker | Kubernetes | Ansible.</li>
-    <li>🎉 Fun Fact: I Love Tech 😋🧠.</li>
-    <li>🙂 Second Fun Fact: Keep Calm & Never Give Up.</li>
+    <li>🎓 <strong>Certifications:</strong> Red Hat Certified System Administrator (RHCSA), Fortinet NSE, Scrum SFC.</li>
+    <li>☁️ <strong>Enterprise Focus:</strong> Cloud & SysOps Engineering, Linux Systems (RHEL / Debian), OpenTofu / Terraform IaC, Ansible.</li>
+    <li>🖥️ <strong>Homelab & Virtualization:</strong> Multi-node Proxmox VE cluster with 10G SDN, ZFS/ZRAM, PBS offsite backups, and automated DR.</li>
+    <li>👨‍💻 More information and live architecture on <a href="https://speedrapide10.github.io/">my portfolio website</a>.</li>
+    <li>📝 Connect with me on <a href="https://www.linkedin.com/in/oussama-karem/">LinkedIn</a>.</li>
+    <li>💬 Passionate about Infrastructure as Code, Linux kernel tuning, high-availability clusters, and GitOps automation.</li>
   </ul>
 </div>
 
 <br clear="all" />
 
 <div>
-  <h2>🧑‍💻 My open source repos</h2>
+  <h2>🧑‍💻 Featured Repositories & Tooling</h2>
   <table border="0" align="center" cellspacing="15" cellpadding="0">
     <tr>
       <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/my-code-server">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="my-code-server" />
+        <a href="https://github.com/speedrapide10/Tailscale-ACL">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=Tailscale-ACL&theme=radical" alt="Tailscale-ACL" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/Proxmox-Public-Scripts">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=Proxmox-Public-Scripts&theme=radical" alt="Proxmox-Public-Scripts" />
+        <a href="https://github.com/speedrapide10/portainer-stacks-backup">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=portainer-stacks-backup&theme=radical" alt="portainer-stacks-backup" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/upptime">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=upptime&theme=radical" alt="upptime" />
+        <a href="https://github.com/speedrapide10/Proxmox-Public-Scripts">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=Proxmox-Public-Scripts&theme=radical" alt="Proxmox-Public-Scripts" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://github.com/speedrapide10/free-programming-books">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=free-programming-books&theme=radical" alt="free-programming-books" />
+        <a href="https://github.com/speedrapide10/my-code-server">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=speedrapide10&repo=my-code-server&theme=radical" alt="my-code-server" />
         </a>
       </td>
     </tr>
